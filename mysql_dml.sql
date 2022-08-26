@@ -2,8 +2,8 @@
 -- Schema mydb
 -- -----------------------------------------------------
 CREATE SCHEMA IF NOT EXISTS `mydb` DEFAULT CHARACTER SET utf8 ;
-USE `mydb` ;
- 
+USE `mydb` ; 
+ -- woo
 -- -----------------------------------------------------
 -- Table `mydb`.`member`
 -- -----------------------------------------------------
